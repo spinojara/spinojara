@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spinojara&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spinojara&repo=bitbit&theme=gruvbox)](https://github.com/spinojara/bitbit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spinojara&repo=testbit&theme=gruvbox)](https://github.com/spinojara/testbit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spinojara&repo=nchess&theme=gruvbox)](https://github.com/spinojara/nchess)
